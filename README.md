@@ -1,4 +1,4 @@
-# Coding-Quiz
+# Java-Script Coding-Quiz
 
 ## Description
 
@@ -30,4 +30,4 @@ https://www.youtube.com/watch?v=PBcqGxrr9g8&ab_channel=GreatStack
 
 Application URL: https://ant-m84.github.io/Coding-Quiz/
 
-![Alt text](<Assets/Coding Quiz App Image.png>)
+![JavaScript Coding Quiz Application Screenshot](<assets/Coding Quiz App Image.png>)
